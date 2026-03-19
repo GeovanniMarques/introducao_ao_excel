@@ -11,7 +11,11 @@ Esse repositório foi desenvolvido a partir do conteúdo ensinado no [Bootcamp B
 ├── 📁 assets
 │   └── 📁 img
 │       ├── 🖼️ congelamento_de_celula.png
+│       ├── 🖼️ exercicio_introducao_ao_excel.png
 │       └── 🖼️ representacao_celulas.png
+├── 📁 exercicios
+│   ├── 📄 Exercicio_introducao_ao_Excel.xlsx
+│   └── 📝 README.md
 ├── 📄 LICENSE
 └── 📝 README.md
 ```
